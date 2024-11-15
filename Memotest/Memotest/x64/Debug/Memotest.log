@@ -1,0 +1,6 @@
+﻿  Memotest.cpp
+C:\Users\Martin\Desktop\SFML\VS Proyecto\Memotest\Memotest\Memotest.cpp(97,144): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\Martin\Desktop\SFML\VS Proyecto\Memotest\Memotest\Memotest.cpp(97,90): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\Martin\Desktop\SFML\VS Proyecto\Memotest\Memotest\Memotest.cpp(141,132): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\Martin\Desktop\SFML\VS Proyecto\Memotest\Memotest\Memotest.cpp(141,78): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
+  Memotest.vcxproj -> C:\Users\Martin\Desktop\SFML\VS Proyecto\Memotest\Memotest\x64\Debug\Memotest.exe
